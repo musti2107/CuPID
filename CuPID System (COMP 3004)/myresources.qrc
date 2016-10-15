@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/cupidVe">
+        <file>images/pp.jpg</file>
+        <file>images/ll.png</file>
+    </qresource>
+</RCC>
