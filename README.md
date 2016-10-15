@@ -1,5 +1,6 @@
 # CuPID
 Carleton Univeristy Project Identifier (CuPID)
+by: Muhammad, Abdul, Malik and Rehnuma (Game of Codes)
 
 DESCRIPTION OF THE GROUP PROJECT:
 ----------------------------------
